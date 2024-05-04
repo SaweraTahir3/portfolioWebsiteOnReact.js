@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d43bf90.css",
+    "main.js": "/static/js/main.3d6e267d.js",
+    "static/js/453.435ddd7a.chunk.js": "/static/js/453.435ddd7a.chunk.js",
+    "static/media/clock.png": "/static/media/clock.e192834e1c52fabffe8e.png",
+    "static/media/WhatsApp Image 2024-05-01 at 3.50.28 PM.jpeg": "/static/media/WhatsApp Image 2024-05-01 at 3.50.28 PM.c2329d94793a32d4276c.jpeg",
+    "static/media/login form.png": "/static/media/login form.52356b969db02aa1f4d1.png",
+    "static/media/weeb.jpg": "/static/media/weeb.0790a900c84de1807cc6.jpg",
+    "static/media/WhatsApp Image 2024-05-01 at 3.48.02 PM copy.jpeg": "/static/media/WhatsApp Image 2024-05-01 at 3.48.02 PM copy.5d550c47611e98145683.jpeg",
+    "static/media/faceboob.icone.png": "/static/media/faceboob.icone.8d693a9161d6ea481345.png",
+    "static/media/Udegin.png": "/static/media/Udegin.40d41bc688032225753d.png",
+    "static/media/white.avif": "/static/media/white.b4d9b3eba1c7e00426bb.avif",
+    "static/media/insta.icon.jpeg": "/static/media/insta.icon.56701e9809e2b2f8d442.jpeg",
+    "index.html": "/index.html",
+    "main.1d43bf90.css.map": "/static/css/main.1d43bf90.css.map",
+    "main.3d6e267d.js.map": "/static/js/main.3d6e267d.js.map",
+    "453.435ddd7a.chunk.js.map": "/static/js/453.435ddd7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d43bf90.css",
+    "static/js/main.3d6e267d.js"
+  ]
+}
